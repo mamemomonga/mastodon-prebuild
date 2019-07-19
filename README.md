@@ -8,7 +8,7 @@
 	$ curl https://get.docker.com/ | sh
 	$ sudo sh -c 'usermod -a -G docker $SUDO_USER'
 	$ exec $SHELL
-	$ git clone xxx
+	$ git clone https://github.com/mamemomonga/mastodon-prebuild.git
 	$ cd mastodon-prebuild
 	$ make
 
